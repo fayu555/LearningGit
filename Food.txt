@@ -3,5 +3,7 @@ Chicken Biryani
 Chicken Tikka
 Mutton 
 Pasta
+Beans
+Pizza
 
 Thank You
