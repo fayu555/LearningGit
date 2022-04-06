@@ -2,3 +2,5 @@ Welcome to Food Truck we have below items available as of now
 Chicken Biryani
 Chicken Tikka
 Mutton 
+Pasta
+
